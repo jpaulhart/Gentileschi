@@ -1,0 +1,1521 @@
+<table class="wikitable sortable" style="width:100%">
+    <tbody>
+        <tr>
+            <th>image
+            </th>
+            <th>name
+            </th>
+            <th>year
+            </th>
+            <th>collection
+            </th>
+            <th>dimensions
+            </th>
+            <th>inventory nr.
+            </th>
+            <th>catalogue code
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Self-Portrait_5365.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Self-Portrait 5365.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Artemisia_Gentileschi_-_Self-Portrait_5365.jpg/128px-Artemisia_Gentileschi_-_Self-Portrait_5365.jpg" decoding="async" width="128" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Artemisia_Gentileschi_-_Self-Portrait_5365.jpg/192px-Artemisia_Gentileschi_-_Self-Portrait_5365.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Artemisia_Gentileschi_-_Self-Portrait_5365.jpg/256px-Artemisia_Gentileschi_-_Self-Portrait_5365.jpg 2x" data-file-width="5365" data-file-height="5329"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Self-Portrait_as_Saint_Catherine_of_Alexandria" title="Self-Portrait as Saint Catherine of Alexandria">Self-Portrait as Saint Catherine of Alexandria</a>
+                </i>
+            </td>
+            <td>1615-1617
+            </td>
+            <td>
+                <a href="/wiki/National_Gallery,_London" class="mw-redirect" title="National Gallery, London">National Gallery, London</a>
+            </td>
+            <td>71.5 cm x 71 cm
+            </td>
+            <td>NG6671
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Aurora-Gentileschi.jpg" class="image">
+                            <img alt="Aurora-Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aurora-Gentileschi.jpg/128px-Aurora-Gentileschi.jpg" decoding="async" width="128" height="194" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aurora-Gentileschi.jpg/192px-Aurora-Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aurora-Gentileschi.jpg/256px-Aurora-Gentileschi.jpg 2x" data-file-width="800" data-file-height="1211"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Aurora</i>
+            </td>
+            <td>1625-7
+            </td>
+            <td>Private Collection
+            </td>
+            <td>218 x 146&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 96.), WB (15)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Allegory_of_Painting.png" class="image">
+                            <img alt="Artemisia Gentileschi - Allegory of Painting.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Artemisia_Gentileschi_-_Allegory_of_Painting.png/128px-Artemisia_Gentileschi_-_Allegory_of_Painting.png" decoding="async" width="128" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Artemisia_Gentileschi_-_Allegory_of_Painting.png/192px-Artemisia_Gentileschi_-_Allegory_of_Painting.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Artemisia_Gentileschi_-_Allegory_of_Painting.png/256px-Artemisia_Gentileschi_-_Allegory_of_Painting.png 2x" data-file-width="499" data-file-height="683"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Allegory of Painting</i>
+            </td>
+            <td>1630s
+            </td>
+            <td>Private Collection
+            </td>
+            <td></td>
+            <td></td>
+            <td>MET (Figure 97.)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Saint_Apollonia_by_Artemisia_Gentileschi_ca._1642-1644.jpg" class="image">
+                            <img alt="Saint Apollonia by Artemisia Gentileschi ca. 1642-1644.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saint_Apollonia_by_Artemisia_Gentileschi_ca._1642-1644.jpg/128px-Saint_Apollonia_by_Artemisia_Gentileschi_ca._1642-1644.jpg" decoding="async" width="128" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saint_Apollonia_by_Artemisia_Gentileschi_ca._1642-1644.jpg/192px-Saint_Apollonia_by_Artemisia_Gentileschi_ca._1642-1644.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saint_Apollonia_by_Artemisia_Gentileschi_ca._1642-1644.jpg/256px-Saint_Apollonia_by_Artemisia_Gentileschi_ca._1642-1644.jpg 2x" data-file-width="820" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Saint_Apollonia_(Artemisia_Gentileschi)" title="Saint Apollonia (Artemisia Gentileschi)">Saint Apollonia</a>
+                </i>
+            </td>
+            <td>1642-1644
+            </td>
+            <td>
+                <a href="/wiki/Museo_Soumaya" title="Museo Soumaya">Museo Soumaya</a>
+            </td>
+            <td>74.3 cm × 57 cm (29.3 in × 22 in)
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg" class="image">
+                            <img alt="Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg/128px-Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg" decoding="async" width="128" height="161" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg/192px-Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg/256px-Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg 2x" data-file-width="374" data-file-height="470"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Penitent Magdalene</i>
+            </td>
+            <td>1630s
+            </td>
+            <td>Private Collection
+            </td>
+            <td>49 x 39.7&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 98.)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi-Lucrezia-Potsdam.jpg" class="image">
+                            <img alt="Gentileschi-Lucrezia-Potsdam.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gentileschi-Lucrezia-Potsdam.jpg/128px-Gentileschi-Lucrezia-Potsdam.jpg" decoding="async" width="128" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gentileschi-Lucrezia-Potsdam.jpg/192px-Gentileschi-Lucrezia-Potsdam.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gentileschi-Lucrezia-Potsdam.jpg/256px-Gentileschi-Lucrezia-Potsdam.jpg 2x" data-file-width="1088" data-file-height="612"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Lucretia_(Artemisia_Gentileschi,_Potsdam)" title="Lucretia (Artemisia Gentileschi, Potsdam)">Lucretia</a>
+                </i>
+            </td>
+            <td>1645-50
+            </td>
+            <td>
+                <a href="/wiki/New_Palace_(Potsdam)" title="New Palace (Potsdam)">Neues Palais in Potsdam</a>
+            </td>
+            <td>261 × 226&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 99.), WB (48b)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Susanna_and_the_Elders_(1610),_Artemisia_Gentileschi.jpg" class="image">
+                            <img alt="Susanna and the Elders (1610), Artemisia Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Susanna_and_the_Elders_%281610%29%2C_Artemisia_Gentileschi.jpg/128px-Susanna_and_the_Elders_%281610%29%2C_Artemisia_Gentileschi.jpg" decoding="async" width="128" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Susanna_and_the_Elders_%281610%29%2C_Artemisia_Gentileschi.jpg/192px-Susanna_and_the_Elders_%281610%29%2C_Artemisia_Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Susanna_and_the_Elders_%281610%29%2C_Artemisia_Gentileschi.jpg/256px-Susanna_and_the_Elders_%281610%29%2C_Artemisia_Gentileschi.jpg 2x" data-file-width="4092" data-file-height="5814"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Susanna_and_the_Elders_(Artemisia_Gentileschi)" class="mw-redirect" title="Susanna and the Elders (Artemisia Gentileschi)">Susanna and the Elders</a>
+                </i>
+            </td>
+            <td>1610-1
+            </td>
+            <td>
+                <a href="/wiki/Schloss_Wei%C3%9Fenstein" title="Schloss Weißenstein">Schloss Weißenstein</a>
+            </td>
+            <td>170 x 119&#160;cm.
+            </td>
+            <td>191
+            </td>
+            <td>MET (51), WB (2)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Madonna-and-child-Gentileschi.jpg" class="image">
+                            <img alt="Madonna-and-child-Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Madonna-and-child-Gentileschi.jpg/128px-Madonna-and-child-Gentileschi.jpg" decoding="async" width="128" height="177" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Madonna-and-child-Gentileschi.jpg/192px-Madonna-and-child-Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Madonna-and-child-Gentileschi.jpg/256px-Madonna-and-child-Gentileschi.jpg 2x" data-file-width="1083" data-file-height="1497"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Madonna_and_Child_(Artemisia_Gentileschi)" title="Madonna and Child (Artemisia Gentileschi)">Madonna and Child</a>
+                </i>
+            </td>
+            <td>1610-1
+            </td>
+            <td>
+                <a href="/wiki/Galleria_Spada" title="Galleria Spada">Galleria Spada</a>
+            </td>
+            <td>116.5 X 86.5&#160;cm.
+            </td>
+            <td>166
+            </td>
+            <td>MET (52), WB (X-19)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Madonna_con_Bambino_(1609-1610).jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Madonna con Bambino (1609-1610).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg/128px-Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg" decoding="async" width="128" height="178" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg/192px-Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg/256px-Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg 2x" data-file-width="1075" data-file-height="1493"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Madonna and Child</i>
+            </td>
+            <td>c. 1630
+            </td>
+            <td>
+                <a href="/wiki/Palazzo_Pitti" title="Palazzo Pitti">Palazzo Pitti</a>
+                , Florence
+            </td>
+            <td>118 x 86&#160;cm.
+            </td>
+            <td>2129
+            </td>
+            <td>MET (Figure 107.), WB (1)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Cleopatra2.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Cleopatra2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Artemisia_Gentileschi_Cleopatra2.jpg/128px-Artemisia_Gentileschi_Cleopatra2.jpg" decoding="async" width="128" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Artemisia_Gentileschi_Cleopatra2.jpg/192px-Artemisia_Gentileschi_Cleopatra2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Artemisia_Gentileschi_Cleopatra2.jpg/256px-Artemisia_Gentileschi_Cleopatra2.jpg 2x" data-file-width="1683" data-file-height="1078"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Cleopatra_(Artemisia_Gentileschi,_Milan)" title="Cleopatra (Artemisia Gentileschi, Milan)">Cleopatra</a>
+                </i>
+            </td>
+            <td>1611-2
+            </td>
+            <td>Private Collection
+            </td>
+            <td>118 x 181&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (53), WB (X-6)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Dana%C3%AB.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Danaë.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Artemisia_Gentileschi_-_Dana%C3%AB.jpg/128px-Artemisia_Gentileschi_-_Dana%C3%AB.jpg" decoding="async" width="128" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Artemisia_Gentileschi_-_Dana%C3%AB.jpg/192px-Artemisia_Gentileschi_-_Dana%C3%AB.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Artemisia_Gentileschi_-_Dana%C3%AB.jpg/256px-Artemisia_Gentileschi_-_Dana%C3%AB.jpg 2x" data-file-width="1378" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Danae_(Artemisia_Gentileschi)" title="Danae (Artemisia Gentileschi)">Danae</a>
+                </i>
+            </td>
+            <td>1612
+            </td>
+            <td>
+                <a href="/wiki/Saint_Louis_Art_Museum" title="Saint Louis Art Museum">Saint Louis Art Museum</a>
+            </td>
+            <td>40.5 X 52.5&#160;cm.
+            </td>
+            <td>93:1986
+            </td>
+            <td>MET (54), WB (X-7)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Judith Beheading Holofernes - WGA8563.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg/128px-Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg" decoding="async" width="128" height="163" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg/192px-Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg/256px-Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg 2x" data-file-width="1178" data-file-height="1500"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)" class="mw-redirect" title="Judith Slaying Holofernes (Artemisia Gentileschi)">Judith Slaying Holofernes</a>
+                </i>
+            </td>
+            <td>1611-2
+            </td>
+            <td>
+                <a href="/wiki/Museo_di_Capodimonte" title="Museo di Capodimonte">Museo Nazionale di Capodimonte</a>
+            </td>
+            <td>158.8 x 125.5&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (55), WB (4)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:A_Gentileschi_Allegoria_dell%27inclinazione.jpg" class="image">
+                            <img alt="A Gentileschi Allegoria dell&#39;inclinazione.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_Gentileschi_Allegoria_dell%27inclinazione.jpg/128px-A_Gentileschi_Allegoria_dell%27inclinazione.jpg" decoding="async" width="128" height="332" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_Gentileschi_Allegoria_dell%27inclinazione.jpg/192px-A_Gentileschi_Allegoria_dell%27inclinazione.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_Gentileschi_Allegoria_dell%27inclinazione.jpg/256px-A_Gentileschi_Allegoria_dell%27inclinazione.jpg 2x" data-file-width="714" data-file-height="1851"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Allegory_of_Inclination" title="Allegory of Inclination">Allegory of Inclination</a>
+                </i>
+            </td>
+            <td>1615
+            </td>
+            <td>
+                <a href="/wiki/Casa_Buonarroti" title="Casa Buonarroti">Casa Buonarroti</a>
+            </td>
+            <td>152 × 61&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 110.), WB (8)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Portrait_of_a_nun_by_Artemisia_Gentileschi_ca._1613-1618.jpg" class="image">
+                            <img alt="Portrait of a nun by Artemisia Gentileschi ca. 1613-1618.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_nun_by_Artemisia_Gentileschi_ca._1613-1618.jpg/128px-Portrait_of_a_nun_by_Artemisia_Gentileschi_ca._1613-1618.jpg" decoding="async" width="128" height="173" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_nun_by_Artemisia_Gentileschi_ca._1613-1618.jpg/192px-Portrait_of_a_nun_by_Artemisia_Gentileschi_ca._1613-1618.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_nun_by_Artemisia_Gentileschi_ca._1613-1618.jpg/256px-Portrait_of_a_nun_by_Artemisia_Gentileschi_ca._1613-1618.jpg 2x" data-file-width="798" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Portrait_of_a_Nun_(Artemisia_Gentileschi)" title="Portrait of a Nun (Artemisia Gentileschi)">Portrait of a Nun</a>
+                </i>
+            </td>
+            <td>1613-8
+            </td>
+            <td>Private Collection
+            </td>
+            <td>70 × 52.5&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 114.)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Selfportrait_Martyr.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Selfportrait Martyr.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Artemisia_Gentileschi_Selfportrait_Martyr.jpg/128px-Artemisia_Gentileschi_Selfportrait_Martyr.jpg" decoding="async" width="128" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Artemisia_Gentileschi_Selfportrait_Martyr.jpg/192px-Artemisia_Gentileschi_Selfportrait_Martyr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Artemisia_Gentileschi_Selfportrait_Martyr.jpg/256px-Artemisia_Gentileschi_Selfportrait_Martyr.jpg 2x" data-file-width="800" data-file-height="1073"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Self-Portrait_as_a_Female_Martyr" title="Self-Portrait as a Female Martyr">Self-Portrait as a Female Martyr</a>
+                </i>
+            </td>
+            <td>c.1615
+            </td>
+            <td>Private Collection
+            </td>
+            <td>32 X 24.7&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (56), WB (7)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.JPG" class="image">
+                            <img alt="Artemisia Gentileschi - Self-Portrait as a Lute Player.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.JPG/128px-Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.JPG" decoding="async" width="128" height="138" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.JPG/192px-Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.JPG/256px-Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.JPG 2x" data-file-width="2783" data-file-height="3000"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Self-Portrait_as_a_Lute_Player" title="Self-Portrait as a Lute Player">Self-Portrait as a Lute Player</a>
+                </i>
+            </td>
+            <td>1616-18
+            </td>
+            <td>
+                <a href="/wiki/Wadsworth_Atheneum" title="Wadsworth Atheneum">Wadsworth Atheneum</a>
+                <br/>
+                <a href="/wiki/Villa_Medici" title="Villa Medici">Villa Medici</a>
+            </td>
+            <td>30 x 28&#160;cm
+            </td>
+            <td></td>
+            <td>MET (57)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Mary Magdalene Pitti.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg/128px-Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg" decoding="async" width="128" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg/192px-Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg/256px-Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg 2x" data-file-width="1115" data-file-height="1500"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Mary_Magdalene_(Artemisia_Gentileschi)" title="Mary Magdalene (Artemisia Gentileschi)">Mary Magdalene</a>
+                </i>
+            </td>
+            <td>1616–17
+            </td>
+            <td>
+                <a href="/wiki/Palazzo_Pitti" title="Palazzo Pitti">Palazzo Pitti</a>
+            </td>
+            <td>146.5 x 108&#160;cm
+            </td>
+            <td></td>
+            <td>MET (58), WB (10)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - St Catherine of Alexandria - WGA8560.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg/128px-Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg" decoding="async" width="128" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg/192px-Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg/256px-Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg 2x" data-file-width="1641" data-file-height="2126"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Saint_Catherine_of_Alexandria_(Artemisia_Gentileschi)" title="Saint Catherine of Alexandria (Artemisia Gentileschi)">Saint Catherine of Alexandria</a>
+                </i>
+            </td>
+            <td>c.1618-9
+            </td>
+            <td>
+                <a href="/wiki/Uffizi" title="Uffizi">Uffizi</a>
+            </td>
+            <td>77 x 62&#160;cm
+            </td>
+            <td>8032
+            </td>
+            <td>MET (59), WB (6)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi_judith1.jpg" class="image">
+                            <img alt="Gentileschi judith1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gentileschi_judith1.jpg/128px-Gentileschi_judith1.jpg" decoding="async" width="128" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gentileschi_judith1.jpg/192px-Gentileschi_judith1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gentileschi_judith1.jpg/256px-Gentileschi_judith1.jpg 2x" data-file-width="1400" data-file-height="1755"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Judith_and_her_Maidservant_(Gentileschi,_Florence)" title="Judith and her Maidservant (Gentileschi, Florence)">Judith and her Maidservant</a>
+                </i>
+            </td>
+            <td>c.1618-9
+            </td>
+            <td>
+                <a href="/wiki/Palazzo_Pitti" title="Palazzo Pitti">Palazzo Pitti</a>
+                , Florence
+            </td>
+            <td>14 x 93.5&#160;cm
+            </td>
+            <td></td>
+            <td>MET (60), WB (5)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Mary Magdalene in Ecstasy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg/128px-Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg" decoding="async" width="128" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg/192px-Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg/256px-Artemisia_Gentileschi_-_Mary_Magdalene_in_Ecstasy.jpg 2x" data-file-width="2000" data-file-height="1497"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                <a href="/wiki/Mary_Magdalene_in_Ecstasy" title="Mary Magdalene in Ecstasy">Mary Magdalene in Ecstasy</a>
+                </i>
+            </td>
+            <td>1620
+            </td>
+            <td>private collection
+            </td>
+            <td>81 x 105 cm&#160;cm.
+            </td>
+            <td></td>
+            <td>G. Pupi
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Giaele_e_Sisara.JPG" class="image">
+                            <img alt="Giaele e Sisara.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Giaele_e_Sisara.JPG/128px-Giaele_e_Sisara.JPG" decoding="async" width="128" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Giaele_e_Sisara.JPG/192px-Giaele_e_Sisara.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Giaele_e_Sisara.JPG/256px-Giaele_e_Sisara.JPG 2x" data-file-width="1516" data-file-height="1100"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Jael_and_Sisera_(Artemisia_Gentileschi)" title="Jael and Sisera (Artemisia Gentileschi)">Jael and Sisera</a>
+                </i>
+            </td>
+            <td>1620
+            </td>
+            <td>
+                <a href="/wiki/Museum_of_Fine_Arts_(Budapest)" title="Museum of Fine Arts (Budapest)">Museum of Fine Arts, Budapest</a>
+            </td>
+            <td>86 X 125&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (61), WB (11)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Giuditta decapita Oloferne - Google Art Project.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg/128px-Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg" decoding="async" width="128" height="158" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg/192px-Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg/256px-Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg 2x" data-file-width="2670" data-file-height="3296"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)" class="mw-redirect" title="Judith Slaying Holofernes (Artemisia Gentileschi)">Judith Slaying Holofernes</a>
+                </i>
+            </td>
+            <td>1620-1
+            </td>
+            <td>
+                <a href="/wiki/Uffizi" title="Uffizi">Uffizi</a>
+            </td>
+            <td>86 X 125&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (62), WB (12)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Saint_Cecilia_by_Artemisia_Gentileschi.jpg" class="image">
+                            <img alt="Saint Cecilia by Artemisia Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint_Cecilia_by_Artemisia_Gentileschi.jpg/128px-Saint_Cecilia_by_Artemisia_Gentileschi.jpg" decoding="async" width="128" height="176" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint_Cecilia_by_Artemisia_Gentileschi.jpg/192px-Saint_Cecilia_by_Artemisia_Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint_Cecilia_by_Artemisia_Gentileschi.jpg/256px-Saint_Cecilia_by_Artemisia_Gentileschi.jpg 2x" data-file-width="681" data-file-height="938"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Saint_Cecilia_(Artemisia_Gentileschi)" title="Saint Cecilia (Artemisia Gentileschi)">Saint Cecilia</a>
+                </i>
+            </td>
+            <td>c.1620
+            </td>
+            <td>
+                <a href="/wiki/Galleria_Spada" title="Galleria Spada">Galleria Spada</a>
+            </td>
+            <td>108 X 78.5&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (63), WB (X-28)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi-allegoria.jpg" class="image">
+                            <img alt="Gentileschi-allegoria.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gentileschi-allegoria.jpg/128px-Gentileschi-allegoria.jpg" decoding="async" width="128" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gentileschi-allegoria.jpg/192px-Gentileschi-allegoria.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gentileschi-allegoria.jpg/256px-Gentileschi-allegoria.jpg 2x" data-file-width="1024" data-file-height="744"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Allegory_of_Painting_(Artemisia_Gentileschi)" title="Allegory of Painting (Artemisia Gentileschi)">Allegory of Painting</a>
+                </i>
+            </td>
+            <td>1620s
+            </td>
+            <td>Musee de Tesse, Le Mans
+            </td>
+            <td>95.5 x 133&#160;cm
+            </td>
+            <td></td>
+            <td>MET (64)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisa_Susanna_1622.jpg" class="image">
+                            <img alt="Artemisa Susanna 1622.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Artemisa_Susanna_1622.jpg/128px-Artemisa_Susanna_1622.jpg" decoding="async" width="128" height="168" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Artemisa_Susanna_1622.jpg/192px-Artemisa_Susanna_1622.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Artemisa_Susanna_1622.jpg/256px-Artemisa_Susanna_1622.jpg 2x" data-file-width="825" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Susanna_and_the_Elders_(Gentileschi)" class="mw-redirect" title="Susanna and the Elders (Gentileschi)">Susanna and the Elders</a>
+                </i>
+            </td>
+            <td>1622
+            </td>
+            <td>
+                <a href="/wiki/Burghley_House" title="Burghley House">Burghley House</a>
+            </td>
+            <td>162.5 x 121.9&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (65), WB (X-42)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Susanna_and_the_Elders_NOT_NCMG_1964_77.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Susanna and the Elders NOT NCMG 1964 77.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Artemisia_Gentileschi_-_Susanna_and_the_Elders_NOT_NCMG_1964_77.jpg/128px-Artemisia_Gentileschi_-_Susanna_and_the_Elders_NOT_NCMG_1964_77.jpg" decoding="async" width="128" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Artemisia_Gentileschi_-_Susanna_and_the_Elders_NOT_NCMG_1964_77.jpg/192px-Artemisia_Gentileschi_-_Susanna_and_the_Elders_NOT_NCMG_1964_77.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Artemisia_Gentileschi_-_Susanna_and_the_Elders_NOT_NCMG_1964_77.jpg/256px-Artemisia_Gentileschi_-_Susanna_and_the_Elders_NOT_NCMG_1964_77.jpg 2x" data-file-width="702" data-file-height="944"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Susanna and the Elders</i>
+            </td>
+            <td>c. 1630
+            </td>
+            <td>
+                <a href="/wiki/Nottingham_Castle" title="Nottingham Castle">Nottingham Castle</a>
+            </td>
+            <td>162.5 x 121.9&#160;cm.
+            </td>
+            <td>NCM 1964-77
+            </td>
+            <td>MET (65 (related pictures: Nottingham))
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Condottiero_Bologna.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Condottiero Bologna.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Artemisia_Gentileschi_Condottiero_Bologna.jpg/128px-Artemisia_Gentileschi_Condottiero_Bologna.jpg" decoding="async" width="128" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Artemisia_Gentileschi_Condottiero_Bologna.jpg/192px-Artemisia_Gentileschi_Condottiero_Bologna.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Artemisia_Gentileschi_Condottiero_Bologna.jpg/256px-Artemisia_Gentileschi_Condottiero_Bologna.jpg 2x" data-file-width="1000" data-file-height="1626"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Portrait_of_a_Gonfaloniere" title="Portrait of a Gonfaloniere">Portrait of a Gonfaloniere</a>
+                </i>
+            </td>
+            <td>1622
+            </td>
+            <td>
+                <a href="/wiki/Palazzo_d%27Accursio" title="Palazzo d&#39;Accursio">Palazzo d'Accursio</a>
+            </td>
+            <td>208 x 128&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (66), WB (13)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Lucretia_by_Artemisia_Gentileschi.jpg" class="image">
+                            <img alt="Lucretia by Artemisia Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lucretia_by_Artemisia_Gentileschi.jpg/128px-Lucretia_by_Artemisia_Gentileschi.jpg" decoding="async" width="128" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lucretia_by_Artemisia_Gentileschi.jpg/192px-Lucretia_by_Artemisia_Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lucretia_by_Artemisia_Gentileschi.jpg/256px-Lucretia_by_Artemisia_Gentileschi.jpg 2x" data-file-width="1010" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Lucretia_(Artemisia_Gentileschi,_Milan)" title="Lucretia (Artemisia Gentileschi, Milan)">Lucretia</a>
+                </i>
+            </td>
+            <td>c.1623-5
+            </td>
+            <td>Collection Gerolamo Etro, Milan
+            </td>
+            <td>54 x 51&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (67), WB (3)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Mary_Magdalene2.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Mary Magdalene2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Artemisia_Gentileschi_Mary_Magdalene2.jpg/128px-Artemisia_Gentileschi_Mary_Magdalene2.jpg" decoding="async" width="128" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Artemisia_Gentileschi_Mary_Magdalene2.jpg/192px-Artemisia_Gentileschi_Mary_Magdalene2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Artemisia_Gentileschi_Mary_Magdalene2.jpg/256px-Artemisia_Gentileschi_Mary_Magdalene2.jpg 2x" data-file-width="310" data-file-height="400"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Penitent_Magdalene_(Artemisia_Gentileschi)" title="Penitent Magdalene (Artemisia Gentileschi)">Penitent Magdalene</a>
+                </i>
+            </td>
+            <td>c.1625-6
+            </td>
+            <td>
+                <a href="/wiki/Seville_Cathedral" title="Seville Cathedral">Seville Cathedral</a>
+            </td>
+            <td>122 x 96&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (68), WB (16)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg" class="image">
+                            <img alt="3415 María Magdalena como melancolía.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg/128px-3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg" decoding="async" width="128" height="177" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg/192px-3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg/256px-3415_Mar%C3%ADa_Magdalena_como_melancol%C3%ADa.jpg 2x" data-file-width="613" data-file-height="850"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Mary_Magdalene_as_Melancholy" title="Mary Magdalene as Melancholy">Mary Magdalene as Melancholy</a>
+                </i>
+            </td>
+            <td>1620s
+            </td>
+            <td>
+                <a href="/wiki/Museo_Soumaya" title="Museo Soumaya">Museo Soumaya</a>
+            </td>
+            <td>136.3 × 100.3&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 128.), WB (17)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Judith Maidservant DIA.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg/128px-Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg" decoding="async" width="128" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg/192px-Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg/256px-Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg 2x" data-file-width="2079" data-file-height="2700"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Judith_and_Her_Maidservant_(Detroit)" title="Judith and Her Maidservant (Detroit)">Judith and Maidservant with Head of Holofernes</a>
+                </i>
+            </td>
+            <td>c.1625-7
+            </td>
+            <td>
+                <a href="/wiki/Detroit_Institute_of_Arts" title="Detroit Institute of Arts">Detroit Institute of Arts</a>
+            </td>
+            <td>182.2 X 142.2&#160;cm.
+            </td>
+            <td>52.253
+            </td>
+            <td>MET (69), WB (14)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Judith_and_her_maid_Abra_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg" class="image">
+                            <img alt="Judith and her maid Abra with the Head of Holofernes by Artemisia Gentileschi ca. 1645-1650.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Judith_and_her_maid_Abra_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg/128px-Judith_and_her_maid_Abra_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg" decoding="async" width="128" height="157" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Judith_and_her_maid_Abra_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg/192px-Judith_and_her_maid_Abra_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Judith_and_her_maid_Abra_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg/256px-Judith_and_her_maid_Abra_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg 2x" data-file-width="1889" data-file-height="2324"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Judith_and_her_Maidservant_(Gentileschi)_Naples" class="mw-redirect" title="Judith and her Maidservant (Gentileschi) Naples">Judith and Maidservant with Head of Holofernes</a>
+                </i>
+            </td>
+            <td>c.1640s
+            </td>
+            <td>
+                <a href="/wiki/Museo_di_Capodimonte" title="Museo di Capodimonte">Museo di Capodimonte, Naples</a>
+            </td>
+            <td>272 X 221&#160;cm.
+            </td>
+            <td>Q377
+            </td>
+            <td>MET (69 (related pictures: Museo di Capodimonte)), WB (48c)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Judith_and_her_maid_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg" class="image">
+                            <img alt="Judith and her maid with the Head of Holofernes by Artemisia Gentileschi ca. 1645-1650.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Judith_and_her_maid_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg/128px-Judith_and_her_maid_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg" decoding="async" width="128" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Judith_and_her_maid_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg/192px-Judith_and_her_maid_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Judith_and_her_maid_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg/256px-Judith_and_her_maid_with_the_Head_of_Holofernes_by_Artemisia_Gentileschi_ca._1645-1650.jpg 2x" data-file-width="790" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Judith_and_her_Maidservant_(Gentileschi)_Cannes" class="mw-redirect" title="Judith and her Maidservant (Gentileschi) Cannes">Judith and her Maidservant (Cannes)</a>
+                </i>
+            </td>
+            <td>c.1640s
+            </td>
+            <td>Musee de la Castre, Cannes
+            </td>
+            <td>235 x 172&#160;cm.
+            </td>
+            <td>2006.O.751
+            </td>
+            <td>WB (47), Locker Figure 3.31
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Sleeping_Venus.JPG" class="image">
+                            <img alt="Artemisia Gentileschi - Sleeping Venus.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Artemisia_Gentileschi_-_Sleeping_Venus.JPG/128px-Artemisia_Gentileschi_-_Sleeping_Venus.JPG" decoding="async" width="128" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Artemisia_Gentileschi_-_Sleeping_Venus.JPG/192px-Artemisia_Gentileschi_-_Sleeping_Venus.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Artemisia_Gentileschi_-_Sleeping_Venus.JPG/256px-Artemisia_Gentileschi_-_Sleeping_Venus.JPG 2x" data-file-width="1653" data-file-height="1134"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Venus_and_Cupid_(Gentileschi)" title="Venus and Cupid (Gentileschi)">Venus and Cupid</a>
+                </i>
+            </td>
+            <td>c.1625-30
+            </td>
+            <td>
+                <a href="/wiki/Virginia_Museum_of_Fine_Arts" title="Virginia Museum of Fine Arts">Virginia Museum of Fine Arts</a>
+            </td>
+            <td>94 x 144&#160;cm.
+            </td>
+            <td>2001.225
+            </td>
+            <td>MET (70), WB (18)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi,_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg" class="image">
+                            <img alt="Gentileschi, Artemisia - Esther before Ahasuerus - c. 1628–1635.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg/128px-Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg" decoding="async" width="128" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg/192px-Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg/256px-Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg 2x" data-file-width="3771" data-file-height="2875"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Esther_before_Ahasuerus_(Artemisia_Gentileschi)" title="Esther before Ahasuerus (Artemisia Gentileschi)">Esther before Ahasuerus</a>
+                </i>
+            </td>
+            <td>c.1628-35
+            </td>
+            <td>
+                <a href="/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">Metropolitan Museum of Art</a>
+            </td>
+            <td>208.3 × 273.7&#160;cm.
+            </td>
+            <td>69.281
+            </td>
+            <td>MET (71), WB (28)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Sinite_Parvulos_-_A._Gentileschi.png" class="image">
+                            <img alt="Sinite Parvulos - A. Gentileschi.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sinite_Parvulos_-_A._Gentileschi.png/128px-Sinite_Parvulos_-_A._Gentileschi.png" decoding="async" width="128" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sinite_Parvulos_-_A._Gentileschi.png/192px-Sinite_Parvulos_-_A._Gentileschi.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sinite_Parvulos_-_A._Gentileschi.png/256px-Sinite_Parvulos_-_A._Gentileschi.png 2x" data-file-width="1100" data-file-height="1505"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Christ Blessing the Children</i>
+            </td>
+            <td>c.1640s
+            </td>
+            <td>formerly MET
+            </td>
+            <td>134.6 × 97.7&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 132.)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Verk%C3%BCndigung_an_maria.jpg" class="image">
+                            <img alt="Verkündigung an maria.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Verk%C3%BCndigung_an_maria.jpg/128px-Verk%C3%BCndigung_an_maria.jpg" decoding="async" width="128" height="186" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Verk%C3%BCndigung_an_maria.jpg/192px-Verk%C3%BCndigung_an_maria.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Verk%C3%BCndigung_an_maria.jpg/256px-Verk%C3%BCndigung_an_maria.jpg 2x" data-file-width="1411" data-file-height="2048"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Annunciation</i>
+            </td>
+            <td>1630
+            </td>
+            <td>
+                <a href="/wiki/Museo_di_Capodimonte" title="Museo di Capodimonte">Museo Nazionale di Capodimonte</a>
+            </td>
+            <td>257 x 179&#160;cm.
+            </td>
+            <td>Q375
+            </td>
+            <td>MET (72), WB (24)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Mary_Magdalene3.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Mary Magdalene3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Artemisia_Gentileschi_Mary_Magdalene3.jpg/128px-Artemisia_Gentileschi_Mary_Magdalene3.jpg" decoding="async" width="128" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Artemisia_Gentileschi_Mary_Magdalene3.jpg/192px-Artemisia_Gentileschi_Mary_Magdalene3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Artemisia_Gentileschi_Mary_Magdalene3.jpg/256px-Artemisia_Gentileschi_Mary_Magdalene3.jpg 2x" data-file-width="1790" data-file-height="2362"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Penitent Magdalene</i>
+            </td>
+            <td>c.1630-2
+            </td>
+            <td>Private Collection
+            </td>
+            <td>65.7 x 50.8&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (73), WB (9)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg" class="image">
+                            <img alt="Corisca and the Satyr by Artemisia Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg/128px-Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg" decoding="async" width="128" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg/192px-Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg/256px-Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg 2x" data-file-width="2431" data-file-height="1772"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Corisca_and_the_Satyr" title="Corisca and the Satyr">Corisca and the Satyr</a>
+                </i>
+            </td>
+            <td>c.1630-5
+            </td>
+            <td>Private Collection
+            </td>
+            <td>155 x 210&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (74), WB (30)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi-autoretratBarberini.jpg" class="image">
+                            <img alt="Gentileschi-autoretratBarberini.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gentileschi-autoretratBarberini.jpg/128px-Gentileschi-autoretratBarberini.jpg" decoding="async" width="128" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gentileschi-autoretratBarberini.jpg/192px-Gentileschi-autoretratBarberini.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gentileschi-autoretratBarberini.jpg/256px-Gentileschi-autoretratBarberini.jpg 2x" data-file-width="1097" data-file-height="1500"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Self-Portrait_(Artemisia_Gentileschi)_Rome" class="mw-redirect" title="Self-Portrait (Artemisia Gentileschi) Rome">Self Portrait</a>
+                </i>
+            </td>
+            <td>c.1630-5
+            </td>
+            <td>Palazzo Barberini Rome
+            </td>
+            <td>98 x 74.5 cm
+            </td>
+            <td>1952 (F.N. 33598)
+            </td>
+            <td>Locker (Figure 5.2)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi,_Artemisia_-_Clio_-_1632.jpg" class="image">
+                            <img alt="Gentileschi, Artemisia - Clio - 1632.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gentileschi%2C_Artemisia_-_Clio_-_1632.jpg/128px-Gentileschi%2C_Artemisia_-_Clio_-_1632.jpg" decoding="async" width="128" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gentileschi%2C_Artemisia_-_Clio_-_1632.jpg/192px-Gentileschi%2C_Artemisia_-_Clio_-_1632.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gentileschi%2C_Artemisia_-_Clio_-_1632.jpg/256px-Gentileschi%2C_Artemisia_-_Clio_-_1632.jpg 2x" data-file-width="1000" data-file-height="1301"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Clio" title="Clio">Clio</a>
+                    : the Muse of History
+                </i>
+            </td>
+            <td>1632
+            </td>
+            <td>
+                <a href="/wiki/Palazzo_Blu" title="Palazzo Blu">Palazzo Blu</a>
+            </td>
+            <td>127.6 x 97.2&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (75), WB (27)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_Cleopatra3.jpg" class="image">
+                            <img alt="Artemisia Gentileschi Cleopatra3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Artemisia_Gentileschi_Cleopatra3.jpg/128px-Artemisia_Gentileschi_Cleopatra3.jpg" decoding="async" width="128" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Artemisia_Gentileschi_Cleopatra3.jpg/192px-Artemisia_Gentileschi_Cleopatra3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Artemisia_Gentileschi_Cleopatra3.jpg/256px-Artemisia_Gentileschi_Cleopatra3.jpg 2x" data-file-width="1628" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Cleopatra</i>
+            </td>
+            <td>1633-5
+            </td>
+            <td>Private Collection
+            </td>
+            <td>117 x 175.5&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (76), WB (22)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Nacimiento_de_San_Juan_Bautista_(Artemisia_Gentileschi).jpg" class="image">
+                            <img alt="Nacimiento de San Juan Bautista (Artemisia Gentileschi).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Nacimiento_de_San_Juan_Bautista_%28Artemisia_Gentileschi%29.jpg/128px-Nacimiento_de_San_Juan_Bautista_%28Artemisia_Gentileschi%29.jpg" decoding="async" width="128" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Nacimiento_de_San_Juan_Bautista_%28Artemisia_Gentileschi%29.jpg/192px-Nacimiento_de_San_Juan_Bautista_%28Artemisia_Gentileschi%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Nacimiento_de_San_Juan_Bautista_%28Artemisia_Gentileschi%29.jpg/256px-Nacimiento_de_San_Juan_Bautista_%28Artemisia_Gentileschi%29.jpg 2x" data-file-width="2717" data-file-height="1914"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/The_Birth_of_Saint_John_the_Baptist_(Artemisia_Gentileschi)" title="The Birth of Saint John the Baptist (Artemisia Gentileschi)">Nativity of St. John the Baptist</a>
+                </i>
+            </td>
+            <td>1633-5
+            </td>
+            <td>
+                <a href="/wiki/Museo_del_Prado" title="Museo del Prado">Museo del Prado</a>
+            </td>
+            <td>184 X 158&#160;cm.
+            </td>
+            <td>P00149
+            </td>
+            <td>MET (77), WB (32)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi,_Artemisia_-_Lot_and_his_Daughters_-_1635-1638.jpg" class="image">
+                            <img alt="Gentileschi, Artemisia - Lot and his Daughters - 1635-1638.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentileschi%2C_Artemisia_-_Lot_and_his_Daughters_-_1635-1638.jpg/128px-Gentileschi%2C_Artemisia_-_Lot_and_his_Daughters_-_1635-1638.jpg" decoding="async" width="128" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentileschi%2C_Artemisia_-_Lot_and_his_Daughters_-_1635-1638.jpg/192px-Gentileschi%2C_Artemisia_-_Lot_and_his_Daughters_-_1635-1638.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentileschi%2C_Artemisia_-_Lot_and_his_Daughters_-_1635-1638.jpg/256px-Gentileschi%2C_Artemisia_-_Lot_and_his_Daughters_-_1635-1638.jpg 2x" data-file-width="2000" data-file-height="2494"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Lot_and_His_Daughters_(Artemisia_Gentileschi,_1635-1638)" title="Lot and His Daughters (Artemisia Gentileschi, 1635-1638)">Lot and his Daughters</a>
+                </i>
+            </td>
+            <td>1635-8
+            </td>
+            <td>
+                <a href="/wiki/Toledo_Museum_of_Art" title="Toledo Museum of Art">Toledo Museum of Art</a>
+            </td>
+            <td>230.5 x 183&#160;cm.
+            </td>
+            <td>1983.107
+            </td>
+            <td>MET (78), WB (39)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg" class="image">
+                            <img alt="The Martyrdom of St Januarius in the Amphitheatre at Pozzuoli.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg/128px-The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg" decoding="async" width="128" height="191" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg/192px-The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg/256px-The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg 2x" data-file-width="702" data-file-height="1046"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Saint_Januarius_in_the_Amphitheatre_at_Pozzuoli" title="Saint Januarius in the Amphitheatre at Pozzuoli">The Martyrdom of St Januarius in the Amphitheatre at Pozzuoli</a>
+                </i>
+            </td>
+            <td>1636-7
+            </td>
+            <td>
+                <a href="/wiki/Museo_di_Capodimonte" title="Museo di Capodimonte">Museo Nazionale di Capodimonte</a>
+            </td>
+            <td>300 x 200&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (79), WB (33b)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Adoration_of_the_Magi_by_Artemisia_Gentileschi.jpg" class="image">
+                            <img alt="Adoration of the Magi by Artemisia Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Adoration_of_the_Magi_by_Artemisia_Gentileschi.jpg/128px-Adoration_of_the_Magi_by_Artemisia_Gentileschi.jpg" decoding="async" width="128" height="190" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Adoration_of_the_Magi_by_Artemisia_Gentileschi.jpg/192px-Adoration_of_the_Magi_by_Artemisia_Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Adoration_of_the_Magi_by_Artemisia_Gentileschi.jpg/256px-Adoration_of_the_Magi_by_Artemisia_Gentileschi.jpg 2x" data-file-width="1379" data-file-height="2048"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Adoration_of_the_Magi_(Artemisia_Gentileschi)" title="Adoration of the Magi (Artemisia Gentileschi)">Adoration of the Magi</a>
+                </i>
+            </td>
+            <td>1636-7
+            </td>
+            <td>
+                <a href="/wiki/Museo_di_Capodimonte" title="Museo di Capodimonte">Museo Nazionale di Capodimonte</a>
+            </td>
+            <td>300 × 180&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 142.), WB (33c)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_gentileschi,_i_santi_procolo_e_nicea,_1631_ca..JPG" class="image">
+                            <img alt="Artemisia gentileschi, i santi procolo e nicea, 1631 ca..JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Artemisia_gentileschi%2C_i_santi_procolo_e_nicea%2C_1631_ca..JPG/128px-Artemisia_gentileschi%2C_i_santi_procolo_e_nicea%2C_1631_ca..JPG" decoding="async" width="128" height="222" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Artemisia_gentileschi%2C_i_santi_procolo_e_nicea%2C_1631_ca..JPG/192px-Artemisia_gentileschi%2C_i_santi_procolo_e_nicea%2C_1631_ca..JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Artemisia_gentileschi%2C_i_santi_procolo_e_nicea%2C_1631_ca..JPG/256px-Artemisia_gentileschi%2C_i_santi_procolo_e_nicea%2C_1631_ca..JPG 2x" data-file-width="1718" data-file-height="2985"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Saints_Proculus_and_Nicea_(painting)" title="Saints Proculus and Nicea (painting)">Saint Proculus of Pozzuoli and his mother Santa Nicaea</a>
+                </i>
+            </td>
+            <td>1636-7
+            </td>
+            <td>
+                <a href="/wiki/Museo_di_Capodimonte" title="Museo di Capodimonte">Museo Nazionale di Capodimonte</a>
+            </td>
+            <td>300 × 180&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (Figure 143.), WB (33a)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:David_and_Bathsheba_by_Artemisia_Gentileschi.jpg" class="image">
+                            <img alt="David and Bathsheba by Artemisia Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/David_and_Bathsheba_by_Artemisia_Gentileschi.jpg/128px-David_and_Bathsheba_by_Artemisia_Gentileschi.jpg" decoding="async" width="128" height="162" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/David_and_Bathsheba_by_Artemisia_Gentileschi.jpg/192px-David_and_Bathsheba_by_Artemisia_Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/David_and_Bathsheba_by_Artemisia_Gentileschi.jpg/256px-David_and_Bathsheba_by_Artemisia_Gentileschi.jpg 2x" data-file-width="1584" data-file-height="2000"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>David and Bathsheba</i>
+            </td>
+            <td>c.1636-8
+            </td>
+            <td>
+                <a href="/wiki/Columbus_Museum_of_Art" title="Columbus Museum of Art">Columbus Museum of Art</a>
+            </td>
+            <td>265.4 x 209.6&#160;cm.
+            </td>
+            <td>1967.006
+            </td>
+            <td>MET (80), WB (37)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Bathsheba_-_WGA08558.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Bathsheba - WGA08558.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Artemisia_Gentileschi_-_Bathsheba_-_WGA08558.jpg/128px-Artemisia_Gentileschi_-_Bathsheba_-_WGA08558.jpg" decoding="async" width="128" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Artemisia_Gentileschi_-_Bathsheba_-_WGA08558.jpg/192px-Artemisia_Gentileschi_-_Bathsheba_-_WGA08558.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Artemisia_Gentileschi_-_Bathsheba_-_WGA08558.jpg/256px-Artemisia_Gentileschi_-_Bathsheba_-_WGA08558.jpg 2x" data-file-width="900" data-file-height="1056"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>David and Bathsheba</i>
+            </td>
+            <td>1645
+            </td>
+            <td>
+                <a href="/wiki/Prussian_Palaces_and_Gardens_Foundation_Berlin-Brandenburg" title="Prussian Palaces and Gardens Foundation Berlin-Brandenburg">Prussian Palaces and Gardens Foundation Berlin-Brandenburg</a>
+            </td>
+            <td>265.4 x 209.6&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (80 (related pictures: Neues Palais, Potsdam)), WB (48a)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Bathsheba_at_Her_Bath_(ca._1637-1638).jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Bathsheba at Her Bath (ca. 1637-1638).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Artemisia_Gentileschi_-_Bathsheba_at_Her_Bath_%28ca._1637-1638%29.jpg/128px-Artemisia_Gentileschi_-_Bathsheba_at_Her_Bath_%28ca._1637-1638%29.jpg" decoding="async" width="128" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Artemisia_Gentileschi_-_Bathsheba_at_Her_Bath_%28ca._1637-1638%29.jpg/192px-Artemisia_Gentileschi_-_Bathsheba_at_Her_Bath_%28ca._1637-1638%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Artemisia_Gentileschi_-_Bathsheba_at_Her_Bath_%28ca._1637-1638%29.jpg/256px-Artemisia_Gentileschi_-_Bathsheba_at_Her_Bath_%28ca._1637-1638%29.jpg 2x" data-file-width="1515" data-file-height="2000"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Bathsheba</i>
+            </td>
+            <td>1638
+            </td>
+            <td>Private Collection
+            </td>
+            <td></td>
+            <td></td>
+            <td>MET (80 (related pictures: formerly Ramunni, Naples, ex-Leipzig)), WB (40)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Gentileschi_palatina_betsabe.jpg" class="image">
+                            <img alt="Gentileschi palatina betsabe.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gentileschi_palatina_betsabe.jpg/128px-Gentileschi_palatina_betsabe.jpg" decoding="async" width="128" height="173" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gentileschi_palatina_betsabe.jpg/192px-Gentileschi_palatina_betsabe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gentileschi_palatina_betsabe.jpg/256px-Gentileschi_palatina_betsabe.jpg 2x" data-file-width="800" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>David and Bathsheba</i>
+            </td>
+            <td>1645
+            </td>
+            <td>
+                <a href="/wiki/Palazzo_Pitti" title="Palazzo Pitti">Palazzo Pitti</a>
+            </td>
+            <td>286 x 214&#160;cm
+            </td>
+            <td></td>
+            <td>MET (80 (related pictures:Palazzo Pitti))
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Bathsheba_at_Her_Bath_by_Artemisia_Gentileschi_ca._1640-1645_(Vienna).jpg" class="image">
+                            <img alt="Bathsheba at Her Bath by Artemisia Gentileschi ca. 1640-1645 (Vienna).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bathsheba_at_Her_Bath_by_Artemisia_Gentileschi_ca._1640-1645_%28Vienna%29.jpg/128px-Bathsheba_at_Her_Bath_by_Artemisia_Gentileschi_ca._1640-1645_%28Vienna%29.jpg" decoding="async" width="128" height="126" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bathsheba_at_Her_Bath_by_Artemisia_Gentileschi_ca._1640-1645_%28Vienna%29.jpg/192px-Bathsheba_at_Her_Bath_by_Artemisia_Gentileschi_ca._1640-1645_%28Vienna%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bathsheba_at_Her_Bath_by_Artemisia_Gentileschi_ca._1640-1645_%28Vienna%29.jpg/256px-Bathsheba_at_Her_Bath_by_Artemisia_Gentileschi_ca._1640-1645_%28Vienna%29.jpg 2x" data-file-width="1100" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Bathsheba</i>
+            </td>
+            <td>
+                1640
+                <br/>
+                1645
+            </td>
+            <td>Private Collection
+            </td>
+            <td></td>
+            <td></td>
+            <td>MET (80 (related pictures: Haas collection, Vienna)), WB (45)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Self-portrait_as_the_Allegory_of_Painting_(La_Pittura)_-_Artemisia_Gentileschi.jpg" class="image">
+                            <img alt="Self-portrait as the Allegory of Painting (La Pittura) - Artemisia Gentileschi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/128px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg" decoding="async" width="128" height="171" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/192px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/256px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg 2x" data-file-width="1498" data-file-height="2000"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Self-Portrait_as_the_Allegory_of_Painting" title="Self-Portrait as the Allegory of Painting">Self-Portrait as the Allegory of Painting</a>
+                </i>
+            </td>
+            <td>1638-9
+            </td>
+            <td>
+                <a href="/wiki/Royal_Collection" title="Royal Collection">Royal Collection</a>
+            </td>
+            <td>96.5 x 73.7&#160;cm.
+            </td>
+            <td>RCIN 405551
+            </td>
+            <td>MET (81), WB (42)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Venere_e_Cupido_-_A._Gentileschi.png" class="image">
+                            <img alt="Venere e Cupido - A. Gentileschi.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venere_e_Cupido_-_A._Gentileschi.png/128px-Venere_e_Cupido_-_A._Gentileschi.png" decoding="async" width="128" height="91" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venere_e_Cupido_-_A._Gentileschi.png/192px-Venere_e_Cupido_-_A._Gentileschi.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venere_e_Cupido_-_A._Gentileschi.png/256px-Venere_e_Cupido_-_A._Gentileschi.png 2x" data-file-width="1013" data-file-height="721"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Venus Embracing Cupid</i>
+            </td>
+            <td>1640s
+            </td>
+            <td>Private Collection
+            </td>
+            <td>121 x 160&#160;cm.
+            </td>
+            <td></td>
+            <td>MET (82), WB (31)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Susanna_and_the_Elders.jpg" class="image">
+                            <img alt="Susanna and the Elders.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Susanna_and_the_Elders.jpg/128px-Susanna_and_the_Elders.jpg" decoding="async" width="128" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Susanna_and_the_Elders.jpg/192px-Susanna_and_the_Elders.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Susanna_and_the_Elders.jpg/256px-Susanna_and_the_Elders.jpg 2x" data-file-width="3553" data-file-height="4339"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Susanna_and_the_Elders_(Artemisia_Gentileschi)_Brno" class="mw-redirect" title="Susanna and the Elders (Artemisia Gentileschi) Brno">Susanna and the Elders</a>
+                </i>
+            </td>
+            <td>1649
+            </td>
+            <td>
+                <a href="/wiki/Moravian_Gallery_in_Brno" title="Moravian Gallery in Brno">Moravian Gallery in Brno</a>
+            </td>
+            <td>205 x 168&#160;cm
+            </td>
+            <td></td>
+            <td>MET (83), WB (50)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Susanna_e_i_vecchioni_di_Artemisia_Gentileschi,_Museo_Civico_di_Bassano_del_Grappa.JPG" class="image">
+                            <img alt="Susanna e i vecchioni di Artemisia Gentileschi, Museo Civico di Bassano del Grappa.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Susanna_e_i_vecchioni_di_Artemisia_Gentileschi%2C_Museo_Civico_di_Bassano_del_Grappa.JPG/128px-Susanna_e_i_vecchioni_di_Artemisia_Gentileschi%2C_Museo_Civico_di_Bassano_del_Grappa.JPG" decoding="async" width="128" height="193" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Susanna_e_i_vecchioni_di_Artemisia_Gentileschi%2C_Museo_Civico_di_Bassano_del_Grappa.JPG/192px-Susanna_e_i_vecchioni_di_Artemisia_Gentileschi%2C_Museo_Civico_di_Bassano_del_Grappa.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Susanna_e_i_vecchioni_di_Artemisia_Gentileschi%2C_Museo_Civico_di_Bassano_del_Grappa.JPG/256px-Susanna_e_i_vecchioni_di_Artemisia_Gentileschi%2C_Museo_Civico_di_Bassano_del_Grappa.JPG 2x" data-file-width="716" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Susanna and the Elders</i>
+            </td>
+            <td>1650
+            </td>
+            <td>
+                <i>Bassano Civic Museum</i>
+            </td>
+            <td>168 × 112&#160;cm
+            </td>
+            <td></td>
+            <td>MET (83 (related pictures: Bassano del Grappo)); Locker, Figure 6.1
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Artemisia_Gentileschi_-_Susanna_and_the_Elders_near_a_Balcony.jpg" class="image">
+                            <img alt="Artemisia Gentileschi - Susanna and the Elders near a Balcony.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Artemisia_Gentileschi_-_Susanna_and_the_Elders_near_a_Balcony.jpg/128px-Artemisia_Gentileschi_-_Susanna_and_the_Elders_near_a_Balcony.jpg" decoding="async" width="128" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Artemisia_Gentileschi_-_Susanna_and_the_Elders_near_a_Balcony.jpg/192px-Artemisia_Gentileschi_-_Susanna_and_the_Elders_near_a_Balcony.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Artemisia_Gentileschi_-_Susanna_and_the_Elders_near_a_Balcony.jpg/256px-Artemisia_Gentileschi_-_Susanna_and_the_Elders_near_a_Balcony.jpg 2x" data-file-width="2500" data-file-height="2241"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Susanna_and_the_Elders_(Gentileschi)_Bologna" class="mw-redirect" title="Susanna and the Elders (Gentileschi) Bologna">Susanna and the Elders</a>
+                </i>
+            </td>
+            <td>1652
+            </td>
+            <td>
+                <a href="/wiki/Pinacoteca_Nazionale_di_Bologna" title="Pinacoteca Nazionale di Bologna">Pinacoteca Nazionale di Bologna</a>
+            </td>
+            <td>200.3 × 225.6&#160;cm
+            </td>
+            <td></td>
+            <td>WB (L-104)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:La_Vergine_e_il_Bambino_con_il_rosario_Artemisia.jpg" class="image">
+                            <img alt="La Vergine e il Bambino con il rosario Artemisia.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_Vergine_e_il_Bambino_con_il_rosario_Artemisia.jpg/128px-La_Vergine_e_il_Bambino_con_il_rosario_Artemisia.jpg" decoding="async" width="128" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_Vergine_e_il_Bambino_con_il_rosario_Artemisia.jpg/192px-La_Vergine_e_il_Bambino_con_il_rosario_Artemisia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_Vergine_e_il_Bambino_con_il_rosario_Artemisia.jpg/256px-La_Vergine_e_il_Bambino_con_il_rosario_Artemisia.jpg 2x" data-file-width="840" data-file-height="1080"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>
+                    <a href="/wiki/Virgin_and_Child_with_a_Rosary" title="Virgin and Child with a Rosary">Virgin and Child with a Rosary</a>
+                </i>
+            </td>
+            <td>1651
+            </td>
+            <td>
+                <a href="/wiki/El_Escorial" title="El Escorial">El Escorial</a>
+            </td>
+            <td>58 x 50&#160;cm
+            </td>
+            <td></td>
+            <td>MET (84), WB (51)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="center">
+                    <div class="floatnone">
+                        <a href="/wiki/File:Samson_und_delilah.jpg" class="image">
+                            <img alt="Samson und delilah.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Samson_und_delilah.jpg/128px-Samson_und_delilah.jpg" decoding="async" width="128" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Samson_und_delilah.jpg/192px-Samson_und_delilah.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Samson_und_delilah.jpg/256px-Samson_und_delilah.jpg 2x" data-file-width="1772" data-file-height="1486"/>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <i>Samson and Delilah</i>
+            </td>
+            <td>1630-38
+            </td>
+            <td>Palazzo Zevallos, Naples
+            </td>
+            <td></td>
+            <td></td>
+            <td>WB (35)
+            </td>
+        </tr>
+    </tbody>
+</table>
